@@ -1,6 +1,6 @@
 # Ibrahim Bello
 
-## 👨‍💻 Backend-Focused Software Engineer | Python Enthusiast | API Developer
+## 👨‍💻 Software Developer
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://bellibrahim.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://bit.ly/belloibrahim)
