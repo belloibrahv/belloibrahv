@@ -22,7 +22,7 @@
 
 | Languages  | Frameworks & Libraries | Tools & Utilities   | Styling           |
 | ---------- | ---------------------- | ------------------- | ----------------- |
-| JavaScript | React, Next.js         | Git, GitHub, Docker | TailwindCSS, MUI  |
+| JavaScript | Vue.js, React.js, Next.js         | Git, GitHub, Docker | TailwindCSS, MUI  |
 | TypeScript | Node.js, Express       | Figma, Vite         | CSS3, SCSS        |
 | HTML5      | Zustand, Redux         | VSCode, Postman     | Styled Components |
 
