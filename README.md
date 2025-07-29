@@ -1,6 +1,6 @@
 # **Ibrahim Bello**
 
-## 👨‍💻 Software Developer | JavaScript, React, Nextjs, TypeScript
+## 👨‍💻 Frontend Engineer | JavaScript, TypeScript, React, Nextjs, 
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat\&logo=About.me\&logoColor=white)](https://belloibrahim.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat\&logo=LinkedIn\&logoColor=white)](https://bit.ly/belloibrahim)
